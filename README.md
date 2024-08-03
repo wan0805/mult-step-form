@@ -99,11 +99,11 @@ npm run build
 
 Code:
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([[https://your-solution-url.com](https://github.com/wan0805/mult-step-form)](https://github.com/wan0805/mult-step-form))
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://your-solution-url.com]([https://github.com/wan0805/mult-step-form]))
 
 Live:
 
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]([[https://your-live-site-url.com](https://mult-step-form-eight.vercel.app/)](https://mult-step-form-eight.vercel.app/))
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-live-site-url.com])
 
 ## ⚙️ My process
 
